@@ -1,2 +1,4 @@
-# NLP-player
-NLP, just a game.
+# python crawler for JCIP
+JCIP is Journal of Chinese Information Processing.
+
+
